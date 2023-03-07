@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(253, 248, 248);
+    
+  
+}
+h1{
+    margin-top: 1.5rem;
+    text-align: center;
+    background-color:rgb(86, 86, 219) ;
+    border-radius: 5px;
+    margin-left: 25%;
+    margin-right: 25%;
+   
+}
+
+.f{
+    margin-top: 3rem;
+    text-align: center;
+    
+    
+}
+.b{
+  
+   text-align: center;
+}
+
+#t{
+    height: 1.75rem;
+    border-radius: 5px;
+    padding-left: 21%;
+    padding-right: 15%;
+}
+.s{
+   
+    border-radius: 5px;
+    margin-top: 1rem;
+    height: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    background-color: rgb(86, 86, 219);
+
+}
+.i{
+    text-align: center;
+}
+
